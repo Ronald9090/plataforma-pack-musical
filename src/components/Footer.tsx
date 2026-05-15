@@ -7,7 +7,7 @@ export function Footer() {
       <div className="max-w-4xl mx-auto space-y-12 text-center">
         <div className="space-y-8">
           <motion.a
-            href="https://drive.google.com/drive/folders/1PQ_S2Jv1K9ct8cbZvlS-5HXTQRqKuJgN?usp=drive_link"
+            href="https://drive.google.com/drive/folders/1cUv_IWi3R1HkDtJZhcr_-nEneJeuLd4W?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ scale: 1.02 }}
